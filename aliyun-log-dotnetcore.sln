@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemstar.Extensions.Logging.AliyunLogService", "Gemstar.Extensions.Logging.AliyunLogService\Gemstar.Extensions.Logging.AliyunLogService.csproj", "{2C97EE09-0F4A-478E-9C02-5941C4C7DA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunLoggerExample", "AliyunLoggerExample\AliyunLoggerExample.csproj", "{38468CBA-16AD-4A84-84E9-7994BA454261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C97EE09-0F4A-478E-9C02-5941C4C7DA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C97EE09-0F4A-478E-9C02-5941C4C7DA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C97EE09-0F4A-478E-9C02-5941C4C7DA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C97EE09-0F4A-478E-9C02-5941C4C7DA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38468CBA-16AD-4A84-84E9-7994BA454261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38468CBA-16AD-4A84-84E9-7994BA454261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38468CBA-16AD-4A84-84E9-7994BA454261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38468CBA-16AD-4A84-84E9-7994BA454261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A64E72B-43B3-4037-8E29-3C7DDBF08904}
+	EndGlobalSection
+EndGlobal
