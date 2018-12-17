@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "894acad7caf6e3393e76923bd53129d8e1e84091"
+    "signature": "dd7582ac55846efcdff73fbc9d181d30efbf7448"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,7 @@
       "Gemstar.Extensions.Logging.AliyunLogService/1.0.0": {
         "dependencies": {
           "Aliyun.Api.LogService": "1.1.0",
-          "Microsoft.Extensions.Logging.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.1.1",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -102,11 +102,11 @@
           }
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+      "Microsoft.Extensions.Logging.Abstractions/2.1.1": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.18315"
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
           }
         }
       },
@@ -632,12 +632,12 @@
       "path": "microsoft.aspnet.webapi.client/5.2.4",
       "hashPath": "microsoft.aspnet.webapi.client.5.2.4.nupkg.sha512"
     },
-    "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+    "Microsoft.Extensions.Logging.Abstractions/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-9/ERS0/w8MRdWYC9Nv230+2DIYbCv+jr5JwlVyFXrNRerKN9mHShlSfCUjq2S9Wa8ORsztbe5Txz2CuA8pr2bA==",
-      "path": "microsoft.extensions.logging.abstractions/2.2.0",
-      "hashPath": "microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512"
+      "sha512": "sha512-XRzK7ZF+O6FzdfWrlFTi1Rgj2080ZDsd46vzOjadHUB0Cz5kOvDG8vI7caa5YFrsHQpcfn0DxtjS4E46N4FZsA==",
+      "path": "microsoft.extensions.logging.abstractions/2.1.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

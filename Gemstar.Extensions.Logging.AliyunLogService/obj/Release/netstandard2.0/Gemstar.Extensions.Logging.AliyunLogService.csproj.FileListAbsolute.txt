@@ -1,0 +1,9 @@
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\bin\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.deps.json
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\bin\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.dll
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\bin\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.pdb
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\obj\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.csprojAssemblyReference.cache
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\obj\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.csproj.CoreCompileInputs.cache
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\obj\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.AssemblyInfoInputs.cache
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\obj\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.AssemblyInfo.cs
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\obj\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.dll
+D:\dotnetProjects\otherProjects\aliyun-log-dotnetcore\Gemstar.Extensions.Logging.AliyunLogService\obj\Release\netstandard2.0\Gemstar.Extensions.Logging.AliyunLogService.pdb

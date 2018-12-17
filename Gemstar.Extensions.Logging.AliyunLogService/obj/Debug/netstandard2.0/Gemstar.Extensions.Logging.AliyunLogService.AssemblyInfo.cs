@@ -11,13 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Gemstar.Extensions.Logging.AliyunLogService")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Gemstar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("asp.net core中使用通用的ILogger记录日志到阿里云的日志服务")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gemstar.Extensions.Logging.AliyunLogService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gemstar.Extensions.Logging.AliyunLogService")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
